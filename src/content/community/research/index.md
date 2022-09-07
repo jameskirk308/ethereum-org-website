@@ -400,3 +400,4 @@ Decentralizing the entire Ethereum tech stack is an important research area. Cur
 #### Recent research {#recent-research-20}
 
 - [Smart contract composability](/developers/docs/smart-contracts/composability/)
+- [Ethereum (ETH) Price Tracker](https://www.coingecko.com/en/coins/ethereum)
